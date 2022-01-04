@@ -22,12 +22,10 @@ section{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
     color: white;
     font-weight: 700;
-    padding: 10px 40px;
     border-radius: 5px;
-    text-align: left;
-    height: 10px;
-    width: 50px;
+    
 }
 
